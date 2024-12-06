@@ -10,7 +10,7 @@ How to Use the Not Pixel Script
 
 3. Clone the repository:
 
-   git clone https://github.com/wolfxd618/notpixel.git
+   git clone https://github.com/SayfullSitumorang/Notpixel-Ads.git
 
 4. Navigate to the repository:
 
@@ -25,9 +25,3 @@ How to Use the Not Pixel Script
 7. Paste your referral link and press Enter. If you have multiple accounts, repeat this process to save all your referral links.
 
 8. Select option 2 to start earning.
-
-
-Collaboration and Contact:
-
--If you want to collaborate, contact TG @Rehmat618
-- If you are a YouTuber, consider putting this on YouTube to help more people use it.
