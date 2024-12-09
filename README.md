@@ -1,4 +1,4 @@
-#command
+https://github.com/SayfullSitumorang/Notpixel-Ads/edit/main/README.md #COMMANDS
 
 How to Use the Not Pixel Script
 install Termux from the Play Store. If you are on a PC, use Kali Linux or any other Linux distribution available in Windows.
