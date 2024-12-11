@@ -11,7 +11,7 @@ Run the following commands one by one:
 - git clone https://github.com/wolfxd618/notpixel.git
 
 ♦ Navigate to the repository:
-- cd notpixel
+- cd Notpixel-Ads
 
 ♦ Run the main script:
 - php main.php
